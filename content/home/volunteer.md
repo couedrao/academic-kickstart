@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Work Experience"
+title = "Volunteer Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,20 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
-  company = "Centre national de la recherche scientifique"
-  company_url = "https://www.cnrs.fr"
+  title = "Active member"
+  company = "Junior INSA Services"
+  company_url = "https://juniorinsaservices.fr/"
   location = "Toulouse, France"
-  date_start = "2017-09-01"
-  date_end = "2018-02-28"
+  date_start = "2019-02-01"
+  date_end = "2019-10-30"
 
 [[experience]]
-  title = "Part-Time Lecturer In Computer Science"
-  company = "INSA Toulouse"
-  company_url = "https://www.insa-toulouse.fr"
+  title = "Chief Information Officer"
+  company = "Junior INSA Services"
+  company_url = "https://juniorinsaservices.fr/"
   location = "Toulouse, France"
-  date_start = "2017-10-01"
+  date_start = "2019-11-01"
   date_end = ""
   description = ""
-
 +++
