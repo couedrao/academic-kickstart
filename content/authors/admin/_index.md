@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ouedraogo Clovis
 
 # Username (this should match the folder name)
 authors:
@@ -10,66 +10,78 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: LAAS-CNRS
+  url: "https://www.laas.fr"
+- name: INSA Toulouse
+  url: "https://www.insa-toulouse.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I’m a junior researcher in LAAS-CNRS. My research aims to reduce human involvement in IoT Platforms to speed up the innovation loop of networking infrastructure.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cloud Computing
+- Internet of Things
+- Quality of Service
+- Artificial intelligence
+#- Machine Learning  
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: INSA Toulouse
+    year: 2018-2021
+  - course: MSc in Innovative Smart Systems
+    institution: INSA Toulouse
+    year: 2017
+  - course: Diplôme d'Ingénieur in Network and Telecommunications
+    institution: ENSA Safi
+    year: 2016
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.fr/citations?user=EPzoR9QAAAAJ&hl=en
+- icon: linkedin-in
+  icon_pack: fab
+  link:  https://www.linkedin.com/in/couedrao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0093-9849
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/couedrao
+- icon: flickr
+  icon_pack: fab
+  link: https://www.flickr.com/people/157252015@N03 
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-
+  
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a junior researcher in LAAS-CNRS. My research aims to reduce human involvement in IoT Platforms to speed up the innovation loop of networking infrastructure. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am fortunate to be co-advised by [Christophe CHASSOT](http://homepages.laas.fr/chassot/pmwiki/pmwiki.php), [Samir MEDJIAH](http://homepages.laas.fr/smedjiah/), and [Khalil DRIRA](http://homepages.laas.fr/khalil/page/index.php). 
+
+I earned my Master's degree in innovative smart systems at INSA Toulouse (in France) in 2017. Prior to INSA, I have completed my engineering diploma in network and telecommunications at [ENSA Safi](http://www.ensas.uca.ma/) (in Morocco) in 2016.
