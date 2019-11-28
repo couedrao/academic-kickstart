@@ -33,11 +33,11 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: INSA Toulouse
-    year: 2018-2021
+    year: 2018-2021(Expected)
   - course: MSc in Innovative Smart Systems
     institution: INSA Toulouse
     year: 2017
-  - course: Diplôme d'Ingénieur in Network and Telecommunications
+  - course: MEng in Network and Telecommunications
     institution: ENSA Safi
     year: 2016
 
