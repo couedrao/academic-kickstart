@@ -14,9 +14,13 @@ subtitle = "Programming"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
   
- [design]
-   # Choose how many columns the section has. Valid values: 1 or 2.
-   columns = "2"
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+   
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
   
 [[feature]]
   icon = "r-project"
