@@ -28,8 +28,8 @@ subtitle = "Programming"
   
 [[feature]]
   icon = "camera-retro"
-  icon_pack = "Python"
-  name = "Photography"
+  icon_pack = "fab"
+  name = "Python"
   description = "10%"
   
 [[feature]]
@@ -46,8 +46,8 @@ subtitle = "Programming"
   
 [[feature]]
   icon = "camera-retro"
-  icon_pack = "SQL"
-  name = "Photography"
+  icon_pack = "fas"
+  name = "SQL"
   description = "10%"
   
 [[feature]]
@@ -61,10 +61,5 @@ subtitle = "Programming"
   icon_pack = "fas"
   name = "JavaScript"
   description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "SQL"
-  name = "Photography"
-  description = "10%"
+
 +++
