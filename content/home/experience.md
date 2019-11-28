@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   location = "Toulouse, France"
   date_start = "2017-09-01"
   date_end = "2018-02-28"
+  description = """Development of a test-bed and experimentation on the dynamic management of quality of service in IoT platforms leading to a scientific publication “A Modular Framework for DynamicQoS Management at the Middleware Level of the IoT : Application to a OneM2M Compliant IoTPlatform” published in IEEE ICC 2018"""
 
 [[experience]]
   title = "Part-Time Lecturer In Computer Science"
@@ -33,7 +34,8 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = ""
   description = """
-    In different courses related to Software-Defined Communication Infrastructure :
+    Courses related to Software-Defined Communication Infrastructure :
+    
     * Concepts and Software Techniques Associated with Network Functions Virtualization (and Networks Programmability)
     * C and networks programming
     * Tutoring Fifth year students projects 
