@@ -32,6 +32,13 @@ date_format = "Jan 2006"
   location = "Toulouse, France"
   date_start = "2017-10-01"
   date_end = ""
-  description = ""
+  description = """
+    In different courses related to Software-Defined Communication Infrastructure :
+    * Concepts and Software Techniques Associated with Network Functions Virtualization (and Networks Programmability )
+    *  C and networks programming
+    * 5th year students projects tutor
+    """
+  tag = "C SDN NFV Dev Ops Openstack"
+  
 
 +++

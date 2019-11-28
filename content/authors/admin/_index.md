@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: INSA Toulouse
-    year: 2018-2021(Expected)
+    year: 2018-2021
   - course: MSc in Innovative Smart Systems
     institution: INSA Toulouse
     year: 2017
