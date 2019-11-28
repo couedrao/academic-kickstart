@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "Centre national de la recherche scientifique"
+  company = "Centre National de la Recherche Scientifique"
   company_url = "https://www.cnrs.fr"
   location = "Toulouse, France"
   date_start = "2017-09-01"
   date_end = "2018-02-28"
-  description = """Development of a test-bed and experimentation on the dynamic management of quality of service in IoT platforms leading to a scientific publication “A Modular Framework for DynamicQoS Management at the Middleware Level of the IoT : Application to a OneM2M Compliant IoTPlatform” published in IEEE ICC 2018"""
+  description = """Development of a test-bed and experimentation on the dynamic management of quality of service in IoT platforms leading to a scientific publication “A Modular Framework for Dynamic QoS Management at the Middleware Level of the IoT : Application to a OneM2M Compliant IoTPlatform” published in IEEE ICC 2018"""
 
 [[experience]]
   title = "Part-Time Lecturer In Computer Science"
