@@ -13,7 +13,12 @@ subtitle = "Programming"
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
+[design]
+  # Minimum and maximum font sizes (1.0 = 100%).
+  font_size_min = 0.1
+  font_size_max = 0.5
+  
+  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
