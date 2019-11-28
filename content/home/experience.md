@@ -35,8 +35,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Courses related to Software-Defined Communication Infrastructure :
-    * Concepts and Software Techniques Associated with Network Functions Virtualization (and Networks Programmability)
-    * C and networks programming
-    * Tutoring Fifth year students projects 
+  
+  * Concepts and Software Techniques Associated with NFV (and SDN)
+  * C and networks programming
+  * Tutoring Fifth year students projects 
   """
 +++
