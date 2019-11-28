@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Programming"
 
 # Showcase personal skills or business features.
 # 
@@ -17,19 +17,54 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
+  name = "Java"
+  description = "90%"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Matlab"
+  description = "100%"  
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "Python"
+  name = "Photography"
+  description = "10%"
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
   name = "R"
   description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "PHP"
   description = "100%"  
   
 [[feature]]
   icon = "camera-retro"
-  icon_pack = "fas"
+  icon_pack = "SQL"
   name = "Photography"
   description = "10%"
-
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Bash (Unix shell)"
+  description = "90%"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "JavaScript"
+  description = "100%"  
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "SQL"
+  name = "Photography"
+  description = "10%"
 +++
